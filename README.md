@@ -4,7 +4,7 @@ This is a tribute page built as part of the freeCodeCamp Responsive Web Design p
 
 ## Preview
 
-![Tribute Page Preview](./assets/capture.PNG)
+![Tribute Page Preview]([./assets/capture.PNG](https://github.com/Jahir-Ag/FC-Tribute/blob/main/assets/Capture.PNG?raw=true))
 
 ## Technologies Used
 
