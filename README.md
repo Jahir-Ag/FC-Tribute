@@ -4,7 +4,7 @@ This is a tribute page built as part of the freeCodeCamp Responsive Web Design p
 
 ## Preview
 
-![Tribute Page Preview](./assets/capture.png)
+![Tribute Page Preview](./assets/capture.PNG)
 
 ## Technologies Used
 
